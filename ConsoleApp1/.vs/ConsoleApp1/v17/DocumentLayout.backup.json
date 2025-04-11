@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emanu\\OneDrive\\Desktop\\C# Advanced Learning\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF31851-CDA0-4DD2-8876-16AF14F32288}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\emanu\\onedrive\\desktop\\c# advanced learning\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF31851-CDA0-4DD2-8876-16AF14F32288}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF31851-CDA0-4DD2-8876-16AF14F32288}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\emanu\\onedrive\\desktop\\c# advanced learning\\consoleapp1\\consoleapp1\\initializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF31851-CDA0-4DD2-8876-16AF14F32288}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\initializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Initializers.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Desktop\\C# Advanced Learning\\ConsoleApp1\\ConsoleApp1\\Initializers.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Initializers.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Desktop\\C# Advanced Learning\\ConsoleApp1\\ConsoleApp1\\Initializers.cs",
+              "RelativeToolTip": "ConsoleApp1\\Initializers.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:08:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Desktop\\C# Advanced Learning\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Desktop\\C# Advanced Learning\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:59:30.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
